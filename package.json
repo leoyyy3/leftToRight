@@ -1,0 +1,22 @@
+{
+  "name": "left-to-right",
+  "version": "1.0.5",
+  "description": "select left tree to right tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoyyy3/leftToRight.git"
+  },
+  "keywords": [
+    "leftToRight"
+  ],
+  "author": "leoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoyyy3/leftToRight/issues"
+  },
+  "homepage": "https://github.com/leoyyy3/leftToRight#readme"
+}
